@@ -1,0 +1,77 @@
+Final Question Categories with top 20 terms based on TF-IDF and NMF with 25 components.
+Questionable categories are denoted with a "(?)".
+
+Topic  0: Holidays
+day, national, park, years, year, may, holiday, days, april, holidays, month, week, every, observances, june, celebrated, parks, st, died, november
+
+Topic  1: US States
+state, official, states, capital, capitals, university, union, texas, california, park, secretary, college, virginia, florida, nicknames, alaska, washington, georgia, bird, hawaii
+
+Topic  2: Miscellaneous
+one, number, another, letter, famous, largest, good, says, worlds, change, borders, might, need, million, animals, theres, may, many, two, big
+
+Topic  3: Famous Women
+first, became, lady, woman, ladies, alphabetically, year, firsts, sports, published, win, american, women, female, history, space, opened, major, elected, years
+
+Topic  4: Foreign Languages
+word, comes, meaning, latin, origins, greek, means, french, phrase, english, old, letter, term, adjective, spanish, mean, may, get, derived, dictionary
+
+Topic  5: 'New' Things
+new, york, times, jersey, mexico, orleans, zealand, hampshire, england, governor, states, testament, years, news, college, year, yankees, street, cities, old
+
+Topic  6: Cities
+city, capital, cities, home, capitals, largest, founded, san, port, river, center, museum, populous, chicago, european, st, kansas, mayor, francisco, london
+
+Topic  7: History-Wars
+war, civil, battle, years, ii, general, revolutionary, ended, peace, wars, spanishamerican, military, treaty, vietnam, french, army, british, cold, korean, history
+
+Topic  8: US Government
+us, states, cities, president, presidents, government, department, gave, senate, army, constitution, cabinet, number, history, military, general, flag, senator, million, mexico
+
+Topic  9: Geography
+country, countries, african, south, africa, borders, european, china, russia, france, india, germany, spain, canada, italy, central, border, asian, sweden, republic
+
+Topic  10: Wordplay/Vocab
+words, phrases, term, means, foreign, meaning, something, adjective, long, latin, mean, german, small, person, someone, palindromic, odd, compound, often, part
+
+Topic  11: Rhyme Time(?)
+time, rhyme, colorful, zone, beastly, period, magazine, machine, nursery, game, tea, long, year, celebrity, crime, short, years, prime, old, presidential
+
+Topic  12: Royalty
+king, great, queen, british, henry, james, history, kings, ii, iii, louis, became, born, england, royal, died, english, son, stephen, charles
+
+Topic  13: Crossword
+clues, crossword, literary, french, biblical, opera, history, precedes, partnerbr, itbr, movie, multiply, citybr, value, art, er, aencient, puzzle, precederbr, songbr
+
+Topic  14: Bodies of Water
+island, american, south, sea, river, lake, water, north, islands, largest, great, states, miles, bodies, geography, america, countries, rivers, west, africa
+
+Topic  15: Television
+tv, show, series, shows, played, game, family, sitcom, star, classic, drama, characters, episode, reality, character, host, jack, dr, night, spinoffs
+
+Topic  16: World Capitals
+world, capital, capitals, history, around, ii, series, leaders, leader, nation, countries, countrys, sports, largest, almanac, facts, nations, prime, minister, became
+
+Topic  17: US Presidents
+john, president, presidential, george, vice, adams, presidents, born, house, paul, kennedy, washington, bush, said, wrote, jefferson, elected, chief, quincy, court
+
+Topic  18: Fine Arts
+century, america, history, british, art, bc, early, years, work, william, wrote, people, women, known, artists, french, late, empire, painting, famous
+
+Topic  19: Authors
+man, said, young, george, old, people, art, good, famous, men, wrote, died, woman, literary, west, thomas, god, became, hes, whos
+
+Topic  20: Letters(?)
+last, letter, alphabetically, add, number, get, years, battle, famous, british, presidential, letters, alphabet, supper, emperor, category, take, mohicans, perfect, home
+
+Topic  21: Literature
+book, novel, books, old, bible, wrote, authors, testament, good, author, little, literature, titles, biblical, lit, published, says, james, story, childrens
+
+Topic  22: Film & Stage
+title, film, movie, character, play, movies, novel, played, fill, oscar, literary, opera, characters, completes, role, best, pairs, shakespeare, films, based
+
+Topic  23: Food & Colors
+type, called, used, made, food, get, french, white, science, term, make, red, game, known, body, company, house, part, often, blue
+
+Topic  24: Music
+song, hit, music, love, rock, top, musical, songs, pop, band, little, group, know, go, lyrics, roll, got, hits, says, wrote
